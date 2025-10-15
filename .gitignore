@@ -1,3 +1,7 @@
 node_modules
 .env
 .wwebjs_cache
+.wwebjs_auth
+chat_memory.json
+session.json
+bot_logs.txt
